@@ -57,7 +57,7 @@ git clone https://github.com/yourusername/mlx-stepwise-solver.git
 Run the script with a model path and prompt:
 
 text  
-python main.py \--model /path/to/mlx-model \--prompt "Solve: What is the capital of Japan?"
+python mlx_stepwise_agent.py \--model /path/to/mlx-model \--prompt "Solve: What is the capital of Japan?"
 
 ### **Command-Line Arguments**
 
